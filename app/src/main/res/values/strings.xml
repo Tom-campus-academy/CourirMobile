@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Courir</string>
+    <string name="title_home">Stock</string>
+    <string name="title_dashboard">Modèle</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="model_name">Nom</string>
+    <string name="identification_number">Référence</string>
+    <string name="submit">Soumettre</string>
+    <string-array name="shoeSize">
+        <item>39.5</item>
+        <item>40</item>
+        <item>40.5</item>
+        <item>41</item>
+        <item>41.5</item>
+    </string-array>
+    <string-array name="brand">
+        <item>Nike</item>
+        <item>Adidas</item>
+        <item>Jordan</item>
+        <item>Converse</item>
+    </string-array>
+</resources>
